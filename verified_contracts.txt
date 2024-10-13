@@ -1,0 +1,3 @@
+erc20 = https://repo.sourcify.dev/contracts/full_match/80002/0x0db39E21982077D178e3d6759a4fEfEA028B8a36/
+erc721 = https://repo.sourcify.dev/contracts/full_match/80002/0x6fFe7715445b466f5cC4C6d35cd4F7825B07922B/
+erc1155 = https://repo.sourcify.dev/contracts/full_match/80002/0x1cdE56d75a5A7bE8C9224C8E66F562Ea97e9BFF1/
